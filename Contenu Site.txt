@@ -1,0 +1,13 @@
+Menu déroulant 
+4 niveaux : 
+	-Primaire 
+	-Collège
+	-Lycée
+	-CPGE 
+Cours + Exercices 
+Template pour les pages de Dl 
+Page de contact -> Php 
+Barre de recherche -> Personnalisation de la génération des pages 
+Pages de référencement 
+Intégration de pubs ? 
+Sujet d'annales (+ corrigés) (liens vers le site source)
