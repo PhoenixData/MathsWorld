@@ -1,13 +1,13 @@
-Menu déroulant 
+Menu d?roulant 
 4 niveaux : 
 	-Primaire 
-	-Collège
-	-Lycée
+	-Coll?ge
+	-Lyc?e
 	-CPGE 
 Cours + Exercices 
 Template pour les pages de Dl 
 Page de contact -> Php 
-Barre de recherche -> Personnalisation de la génération des pages 
-Pages de référencement 
-Intégration de pubs ? 
-Sujet d'annales (+ corrigés) (liens vers le site source)
+Barre de recherche -> Personnalisation de la g?n?ration des pages 
+Pages de r?f?rencement 
+Int?gration de pubs ? 
+Sujet d'annales (+ corrig?s) (liens vers le site source)
