@@ -31,8 +31,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Site-ISN-final" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/shellphish-master/test" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PhoenixData\Desktop\shellphish-master\test" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -58,6 +65,13 @@
       <updated>1583171770670</updated>
       <workItem from="1583171773695" duration="729000" />
       <workItem from="1593770980192" duration="1210000" />
+      <workItem from="1593810613493" duration="600000" />
+      <workItem from="1594465551222" duration="2607000" />
+      <workItem from="1594636761421" duration="2016000" />
+      <workItem from="1594722924170" duration="801000" />
+      <workItem from="1594810680933" duration="656000" />
+      <workItem from="1594892957149" duration="3963000" />
+      <workItem from="1594983844394" duration="509000" />
     </task>
     <servers />
   </component>
@@ -65,14 +79,27 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594893696821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.112.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594893696821" />
     <state x="210" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593686802057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="210" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.112.1024.728/0.0.1920.1040/-1920.-121.1920.1160@0.0.1920.1040" timestamp="1593686802057" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593685425141">
+    <state x="718" y="401" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594893669701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="401" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.112.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594893669701" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594893736524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.112.1024.728/0.0.1920.1040/-1920.-121.1920.1160@0.0.1920.1040" timestamp="1593685425141" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.112.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594893736524" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1594893737884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/1920.112.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1594893737884" />
     <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1593686730047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

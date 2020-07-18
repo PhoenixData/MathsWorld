@@ -1,4 +1,11 @@
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300';
+#particles-js {
+  height: 100vh;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  background: url("../img/background-header.jpg") no-repeat center;
+}
 #choix1
 {
   height: 100vh;
@@ -23,7 +30,6 @@ p
 .choix
 {
   position: relative;
-  top:23vh;
   display: block;
 margin: auto;
 }
@@ -43,5 +49,21 @@ margin: auto;
   background-size: contain;
 
   background-repeat: no-repeat;
+}
+#cours
+{
+  top: 23vh;
+}
+#exercices
+{
+  top:25vh
+}
+#exams
+{
+  top: 27vh;
+}
+#concours
+{
+  top:29vh;
 }
 
